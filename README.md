@@ -1,2 +1,2 @@
 first time 
-author vinayak
+Author - vinayak
